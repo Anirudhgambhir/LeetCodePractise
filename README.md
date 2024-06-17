@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0389-find-the-difference) |
+| [1894-merge-strings-alternately](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1894-merge-strings-alternately) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -18,3 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0389-find-the-difference) |
+# Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1894-merge-strings-alternately) |
