@@ -34,3 +34,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0459-repeated-substring-pattern) |
+| [1894-merge-strings-alternately](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1894-merge-strings-alternately) |
