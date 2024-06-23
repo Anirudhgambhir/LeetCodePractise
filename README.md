@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0389-find-the-difference) |
 # String
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0389-find-the-difference) |
 # Two Pointers
 |  |
@@ -29,3 +31,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0242-valid-anagram) |
