@@ -41,8 +41,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0066-plus-one) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0066-plus-one) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1950-sign-of-the-product-of-an-array) |
 <!---LeetCode Topics End-->
