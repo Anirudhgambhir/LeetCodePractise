@@ -35,3 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0459-repeated-substring-pattern) |
 | [1894-merge-strings-alternately](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1894-merge-strings-alternately) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0066-plus-one) |
+<!---LeetCode Topics End-->
