@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0066-plus-one) |
+| [0682-baseball-game](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0932-monotonic-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0058-length-of-last-word) |
 | [0742-to-lower-case](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0742-to-lower-case) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
