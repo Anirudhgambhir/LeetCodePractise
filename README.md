@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0058-length-of-last-word) |
+| [0657-robot-return-to-origin](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0742-to-lower-case) |
 ## Stack
 |  |
@@ -72,5 +73,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
