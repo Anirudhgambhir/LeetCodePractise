@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0066-plus-one) |
 | [0682-baseball-game](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0932-monotonic-array) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Math
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0013-roman-to-integer) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## String
 |  |
 | ------- |
@@ -78,4 +80,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0682-baseball-game) |
 | [1119-robot-bounded-in-circle](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1119-robot-bounded-in-circle) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+## Matrix
+|  |
+| ------- |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 <!---LeetCode Topics End-->
