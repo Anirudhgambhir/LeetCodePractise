@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0067-add-binary) |
 | [1119-robot-bounded-in-circle](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1119-robot-bounded-in-circle) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0742-to-lower-case) |
 | [1119-robot-bounded-in-circle](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1119-robot-bounded-in-circle) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0682-baseball-game) |
 | [1119-robot-bounded-in-circle](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1119-robot-bounded-in-circle) |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0890-lemonade-change) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
