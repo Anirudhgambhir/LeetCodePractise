@@ -4,15 +4,15 @@ class Solution {
         int fiveDollarNotes = 0, tenDollarNotes = 0;
         for (int bill : bills) {
             if (bill == 5) {
-                fiveDollarNotes += 1;
+                fiveDollarNotes++;
             } else if (bill == 10) {
                 if (fiveDollarNotes < 1) return false;
-                tenDollarNotes += 1;
-                fiveDollarNotes -= 1;
+                tenDollarNotes++;
+                fiveDollarNotes--;
             } else if (bill == 20) {
                 if (tenDollarNotes >= 1 && fiveDollarNotes >= 1) {
-                    fiveDollarNotes -= 1;
-                    tenDollarNotes -= 1;
+                    fiveDollarNotes--;
+                    tenDollarNotes--;
                 } else if (fiveDollarNotes >= 3) {
                     fiveDollarNotes -= 3;
                 } else {
