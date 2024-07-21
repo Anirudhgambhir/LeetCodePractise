@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0932-monotonic-array) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1791-richest-customer-wealth) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
