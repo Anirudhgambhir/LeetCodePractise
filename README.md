@@ -78,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0742-to-lower-case) |
+| [1078-remove-outermost-parentheses](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1078-remove-outermost-parentheses) |
 | [1119-robot-bounded-in-circle](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1119-robot-bounded-in-circle) |
 ## Stack
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0682-baseball-game) |
+| [1078-remove-outermost-parentheses](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1078-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
