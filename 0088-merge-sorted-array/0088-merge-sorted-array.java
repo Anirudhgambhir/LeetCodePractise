@@ -1,30 +1,30 @@
 class Solution {
-    public void merge(int[] a, int m, int[] b, int n) {
-        int i = a.length-1;
-        int left = m-1;
-        int right = n-1;
-        if(n!=0){
-            while(left >= 0 && right >= 0){
-                if(a[left] >= b[right]){
-                    a[i] = a[left];
-                    left--;
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        int lastIndexOfMergedArray = nums1.length - 1;
+        int lastIndexOfFirstArray = m - 1;
+        int lastIndexOfSecondArray = n - 1;
+        if (n != 0) {
+            while (lastIndexOfFirstArray >= 0 && lastIndexOfSecondArray >= 0) {
+                if (nums1[lastIndexOfFirstArray] >= nums2[lastIndexOfSecondArray]) {
+                    nums1[lastIndexOfMergedArray] = nums1[lastIndexOfFirstArray];
+                    lastIndexOfFirstArray--;
                 }
-                else if(a[left] < b[right]){
-                    a[i] = b[right];
-                    right--;
+                else if (nums1[lastIndexOfFirstArray] < nums2[lastIndexOfSecondArray]) {
+                    nums1[lastIndexOfMergedArray] = nums2[lastIndexOfSecondArray];
+                    lastIndexOfSecondArray--;
                 }
-                i--;
+                lastIndexOfMergedArray--;
             }
-            while(left>=0){
-                a[i] = a[left];
-                left--;i--;
+            while(lastIndexOfFirstArray >= 0){
+                nums1[lastIndexOfMergedArray] = nums1[lastIndexOfFirstArray];
+                lastIndexOfMergedArray--;
+                lastIndexOfFirstArray--;
             }
-            while(right>=0){
-                a[i] = b[right];
-                right--;i--;
+            while(lastIndexOfSecondArray >= 0){
+                nums1[lastIndexOfMergedArray] = nums2[lastIndexOfSecondArray];
+                lastIndexOfMergedArray--;
+                lastIndexOfSecondArray--;
             }
         }
-       
-        
-    }  
+    }
 }
