@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1950-sign-of-the-product-of-an-array) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Math
 |  |
 | ------- |
