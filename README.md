@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0682-baseball-game) |
 | [0890-lemonade-change](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0890-lemonade-change) |
@@ -69,12 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0169-majority-element) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0169-majority-element) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## String
 |  |
@@ -121,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anirudhgambhir/LeetCodePractise/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
